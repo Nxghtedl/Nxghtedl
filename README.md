@@ -12,7 +12,7 @@
 ## 🏆 GitHub Trophies
 ![](https://github-profile-trophy.vercel.app/?username=Nxghtedl&theme=dracula&no-frame=true&no-bg=true&margin-w=4)
 
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->## Hi there 👋
+<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
 
 <!--
 **Nxghtedl/Nxghtedl** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
